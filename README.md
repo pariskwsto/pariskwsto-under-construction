@@ -1,3 +1,3 @@
 # pariskwsto-under-construction
 
-> Under construction page for the pariskwsto.com portfolio website
+> A temporary "under construction" page for the `pariskwsto.com` website
